@@ -1,0 +1,84 @@
+.editBtn {
+    font-size:17px;
+    color:#5fa6d4;
+    margin-left: 10%;
+}
+
+.delBtn {
+    font-size:17px;
+    color:red;
+    margin-left: 20%;
+}
+
+.excelBtn {
+    font-size: 23px;
+    color: mediumseagreen;
+    margin-top: 12px;
+;
+    float: right;
+}
+.pdfBtn {
+    font-size:17px;
+    color:red;
+    margin-left: 10%;
+}
+
+.title{
+    font-size: 20px !important;
+    color: #333333;
+}
+.editBtn:hover,.delBtn:hover,.excelBtn:hover,.pdfBtn:hover {
+    cursor: pointer;
+}
+ 
+ 
+ /* Screen size less than 400px */
+@media screen and (max-width: 400px) {
+
+.editBtn {
+    font-size:12px;
+    color:#5fa6d4;
+    margin-left: 10%;
+ }
+ .excelBtn {
+    font-size:12px;
+    margin-left: 10%;
+ }
+ .pdfBtn {
+    font-size:12px;
+    margin-left: 10%;
+ }
+.delBtn {
+    font-size:12px;
+    color:red;
+    margin-left: 20%;
+}
+
+
+@media screen and (max-width: 700px) {
+	
+	.editBtn {
+        font-size:12px;
+        color:#5fa6d4;
+        margin-left: 10%;
+     }
+    .delBtn {
+        font-size:12px;
+        color:red;
+        margin-left: 20%;
+    }
+    .excelBtn {
+        font-size:12px;
+        margin-left: 10%;
+     }
+     .pdfBtn {
+        font-size:12px;
+        margin-left: 10%;
+     }
+
+  }
+
+}
+
+
+
