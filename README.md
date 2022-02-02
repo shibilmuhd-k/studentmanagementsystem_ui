@@ -6,6 +6,21 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## NPM Installs
+
+npm install @angular/cdk --save
+npm install primeng --save
+npm install primeicons --save
+npm install @angular/animations --save
+npm install jspdf --save
+npm install file-saver --save
+npm install xlsx
+npm install --save chart.js
+npm install --save ng2-charts
+npm i --save lodash
+npm i --save @fortawesome/fontawesome-svg-core
+npm install jspdf jspdf-autotable
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
@@ -25,3 +40,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
